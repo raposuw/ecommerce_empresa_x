@@ -4,7 +4,7 @@ import tkinter as tk
 # Criar a janela
 root = tk.Tk()
 root.title("Minha Aplicação Customizada")
-root.geometry("600x400")
+root.geometry("600x450")
 
 # Adicionar widgets
 label = tk.Label(root, text="Olá, Mundo!")
